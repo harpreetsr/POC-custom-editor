@@ -43,3 +43,7 @@ textarea {
     transform: rotate(360deg);
   }
 }
+
+.my-custom-editor {
+  border: none;
+}
